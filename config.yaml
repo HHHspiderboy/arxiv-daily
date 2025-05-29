@@ -23,4 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Object Detection":
-        filters: ["Object Detection","Infrared Small Target Detection"]
+        filters: ["Object Detection"]
+    "Semantic Segmentation":
+        filters:["Semantic Segmentation"]
